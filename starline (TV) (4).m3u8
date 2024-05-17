@@ -1,0 +1,128 @@
+#EXTM3U 
+#EXTVLCOPT:http-reconnect=true
+#EXTINF:-1 tvg-chno="10" tvg-logo="http://192.168.10.5/images/default_picon.png" tvg-id="1:0:1:A:0:1:C030D4:0:0:0:" tvg-name="AD Premium1",AD Premium1
+#EXTVLCOPT:program=10
+http://192.168.10.5:8001/1:0:1:A:0:1:C030D4:0:0:0:
+#EXTINF:-1 tvg-chno="12" tvg-logo="http://192.168.10.5/images/default_picon.png" tvg-id="1:0:1:C:0:1:C030D4:0:0:0:" tvg-name="AlKass 2HD",AlKass 2HD
+#EXTVLCOPT:program=12
+http://192.168.10.5:8001/1:0:1:C:0:1:C030D4:0:0:0:
+#EXTINF:-1 tvg-chno="11" tvg-logo="http://192.168.10.5/images/default_picon.png" tvg-id="1:0:1:B:0:1:C030D4:0:0:0:" tvg-name="ALKass1 HD",ALKass1 HD
+#EXTVLCOPT:program=11
+http://192.168.10.5:8001/1:0:1:B:0:1:C030D4:0:0:0:
+#EXTINF:-1 tvg-chno="16" tvg-logo="http://192.168.10.5/images/default_picon.png" tvg-id="1:0:1:10:0:2:C00000:0:0:0:" tvg-name="AlRabiaa Quran",AlRabiaa Quran
+#EXTVLCOPT:program=16
+http://192.168.10.5:8001/1:0:1:10:0:2:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="17" tvg-logo="http://192.168.10.5/images/default_picon.png" tvg-id="1:0:1:11:0:1:C030D4:0:0:0:" tvg-name="AlRabiaa Sport 1",AlRabiaa Sport 1
+#EXTVLCOPT:program=17
+http://192.168.10.5:8001/1:0:1:11:0:1:C030D4:0:0:0:
+#EXTINF:-1 tvg-chno="18" tvg-logo="http://192.168.10.5/images/default_picon.png" tvg-id="1:0:1:12:0:1:C030D4:0:0:0:" tvg-name="AlRabiaa Sport2",AlRabiaa Sport2
+#EXTVLCOPT:program=18
+http://192.168.10.5:8001/1:0:1:12:0:1:C030D4:0:0:0:
+#EXTINF:-1 tvg-chno="19" tvg-logo="http://192.168.10.5/images/default_picon.png" tvg-id="1:0:1:13:0:2:C00000:0:0:0:" tvg-name="Baby TV",Baby TV
+#EXTVLCOPT:program=19
+http://192.168.10.5:8001/1:0:1:13:0:2:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="20" tvg-logo="http://192.168.10.5/images/default_picon.png" tvg-id="1:0:1:14:0:2:C00000:0:0:0:" tvg-name="BBC Earth",BBC Earth
+#EXTVLCOPT:program=20
+http://192.168.10.5:8001/1:0:1:14:0:2:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="21" tvg-logo="http://192.168.10.5/images/default_picon.png" tvg-id="1:0:1:15:0:2:C00000:0:0:0:" tvg-name="beIN Drama",beIN Drama
+#EXTVLCOPT:program=21
+http://192.168.10.5:8001/1:0:1:15:0:2:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="22" tvg-logo="http://192.168.10.5/images/default_picon.png" tvg-id="1:0:1:16:0:1:C030D4:0:0:0:" tvg-name="beIN Movies 1",beIN Movies 1
+#EXTVLCOPT:program=22
+http://192.168.10.5:8001/1:0:1:16:0:1:C030D4:0:0:0:
+#EXTINF:-1 tvg-chno="23" tvg-logo="http://192.168.10.5/images/default_picon.png" tvg-id="1:0:1:17:0:1:C030D4:0:0:0:" tvg-name="beIN Movies 2",beIN Movies 2
+#EXTVLCOPT:program=23
+http://192.168.10.5:8001/1:0:1:17:0:1:C030D4:0:0:0:
+#EXTINF:-1 tvg-chno="24" tvg-logo="http://192.168.10.5/images/default_picon.png" tvg-id="1:0:1:18:0:1:C030D4:0:0:0:" tvg-name="beIN Movies 3",beIN Movies 3
+#EXTVLCOPT:program=24
+http://192.168.10.5:8001/1:0:1:18:0:1:C030D4:0:0:0:
+#EXTINF:-1 tvg-chno="25" tvg-logo="http://192.168.10.5/images/default_picon.png" tvg-id="1:0:1:19:0:1:C030D4:0:0:0:" tvg-name="beIN Movies 4",beIN Movies 4
+#EXTVLCOPT:program=25
+http://192.168.10.5:8001/1:0:1:19:0:1:C030D4:0:0:0:
+#EXTINF:-1 tvg-chno="1" tvg-logo="http://192.168.10.5/images/default_picon.png" tvg-id="1:0:1:1:0:1:C030D4:0:0:0:" tvg-name="beIN SPORTS 1",beIN SPORTS 1
+#EXTVLCOPT:program=1
+http://192.168.10.5:8001/1:0:1:1:0:1:C030D4:0:0:0:
+#EXTINF:-1 tvg-chno="2" tvg-logo="http://192.168.10.5/images/default_picon.png" tvg-id="1:0:1:2:0:1:C030D4:0:0:0:" tvg-name="beIN SPORTS 2",beIN SPORTS 2
+#EXTVLCOPT:program=2
+http://192.168.10.5:8001/1:0:1:2:0:1:C030D4:0:0:0:
+#EXTINF:-1 tvg-chno="3" tvg-logo="http://192.168.10.5/images/default_picon.png" tvg-id="1:0:1:3:0:1:C030D4:0:0:0:" tvg-name="beIN SPORTS 3",beIN SPORTS 3
+#EXTVLCOPT:program=3
+http://192.168.10.5:8001/1:0:1:3:0:1:C030D4:0:0:0:
+#EXTINF:-1 tvg-chno="4" tvg-logo="http://192.168.10.5/images/default_picon.png" tvg-id="1:0:1:4:0:1:C030D4:0:0:0:" tvg-name="beIN SPORTS 4",beIN SPORTS 4
+#EXTVLCOPT:program=4
+http://192.168.10.5:8001/1:0:1:4:0:1:C030D4:0:0:0:
+#EXTINF:-1 tvg-chno="5" tvg-logo="http://192.168.10.5/images/default_picon.png" tvg-id="1:0:1:5:0:1:C030D4:0:0:0:" tvg-name="beIN SPORTS 5",beIN SPORTS 5
+#EXTVLCOPT:program=5
+http://192.168.10.5:8001/1:0:1:5:0:1:C030D4:0:0:0:
+#EXTINF:-1 tvg-chno="6" tvg-logo="http://192.168.10.5/images/default_picon.png" tvg-id="1:0:1:6:0:1:C030D4:0:0:0:" tvg-name="beIN SPORTS 6",beIN SPORTS 6
+#EXTVLCOPT:program=6
+http://192.168.10.5:8001/1:0:1:6:0:1:C030D4:0:0:0:
+#EXTINF:-1 tvg-chno="7" tvg-logo="http://192.168.10.5/images/default_picon.png" tvg-id="1:0:1:7:0:1:C030D4:0:0:0:" tvg-name="beIN SPORTS 7",beIN SPORTS 7
+#EXTVLCOPT:program=7
+http://192.168.10.5:8001/1:0:1:7:0:1:C030D4:0:0:0:
+#EXTINF:-1 tvg-chno="9" tvg-logo="http://192.168.10.5/images/default_picon.png" tvg-id="1:0:1:9:0:1:C030D4:0:0:0:" tvg-name="beIN SPORTS 9",beIN SPORTS 9
+#EXTVLCOPT:program=9
+http://192.168.10.5:8001/1:0:1:9:0:1:C030D4:0:0:0:
+#EXTINF:-1 tvg-chno="26" tvg-logo="http://192.168.10.5/images/default_picon.png" tvg-id="1:0:1:1A:0:1:C030D4:0:0:0:" tvg-name="Discovery IDX",Discovery IDX
+#EXTVLCOPT:program=26
+http://192.168.10.5:8001/1:0:1:1A:0:1:C030D4:0:0:0:
+#EXTINF:-1 tvg-chno="27" tvg-logo="http://192.168.10.5/images/default_picon.png" tvg-id="1:0:1:1B:0:1:C030D4:0:0:0:" tvg-name="Fatafeat",Fatafeat
+#EXTVLCOPT:program=27
+http://192.168.10.5:8001/1:0:1:1B:0:1:C030D4:0:0:0:
+#EXTINF:-1 tvg-chno="30" tvg-logo="http://192.168.10.5/images/default_picon.png" tvg-id="1:0:1:1E:0:1:C030D4:0:0:0:" tvg-name="Nat Geo",Nat Geo
+#EXTVLCOPT:program=30
+http://192.168.10.5:8001/1:0:1:1E:0:1:C030D4:0:0:0:
+#EXTINF:-1 tvg-chno="31" tvg-logo="http://192.168.10.5/images/default_picon.png" tvg-id="1:0:1:1F:0:1:C030D4:0:0:0:" tvg-name="Nickelodeon",Nickelodeon
+#EXTVLCOPT:program=31
+http://192.168.10.5:8001/1:0:1:1F:0:1:C030D4:0:0:0:
+#EXTINF:-1 tvg-chno="32" tvg-logo="http://192.168.10.5/images/default_picon.png" tvg-id="1:0:1:20:0:2:C00000:0:0:0:" tvg-name="OSN Action",OSN Action
+#EXTVLCOPT:program=32
+http://192.168.10.5:8001/1:0:1:20:0:2:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="42" tvg-logo="http://192.168.10.5/images/default_picon.png" tvg-id="1:0:1:2A:0:2:C00000:0:0:0:" tvg-name="OSN Comedy",OSN Comedy
+#EXTVLCOPT:program=42
+http://192.168.10.5:8001/1:0:1:2A:0:2:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="33" tvg-logo="http://192.168.10.5/images/default_picon.png" tvg-id="1:0:1:21:0:1:C030D4:0:0:0:" tvg-name="OSN Movies pre +2",OSN Movies pre +2
+#EXTVLCOPT:program=33
+http://192.168.10.5:8001/1:0:1:21:0:1:C030D4:0:0:0:
+#EXTINF:-1 tvg-chno="34" tvg-logo="http://192.168.10.5/images/default_picon.png" tvg-id="1:0:1:22:0:1:C030D4:0:0:0:" tvg-name="OSN Yahala Aflam",OSN Yahala Aflam
+#EXTVLCOPT:program=34
+http://192.168.10.5:8001/1:0:1:22:0:1:C030D4:0:0:0:
+#EXTINF:-1 tvg-chno="35" tvg-logo="http://192.168.10.5/images/default_picon.png" tvg-id="1:0:1:23:0:1:C030D4:0:0:0:" tvg-name="OSNTV Crime",OSNTV Crime
+#EXTVLCOPT:program=35
+http://192.168.10.5:8001/1:0:1:23:0:1:C030D4:0:0:0:
+#EXTINF:-1 tvg-chno="13" tvg-logo="http://192.168.10.5/images/default_picon.png" tvg-id="1:0:1:D:0:1:C030D4:0:0:0:" tvg-name="SSC 1",SSC 1
+#EXTVLCOPT:program=13
+http://192.168.10.5:8001/1:0:1:D:0:1:C030D4:0:0:0:
+#EXTINF:-1 tvg-chno="14" tvg-logo="http://192.168.10.5/images/default_picon.png" tvg-id="1:0:1:E:0:1:C030D4:0:0:0:" tvg-name="SSC 2",SSC 2
+#EXTVLCOPT:program=14
+http://192.168.10.5:8001/1:0:1:E:0:1:C030D4:0:0:0:
+#EXTINF:-1 tvg-chno="29" tvg-logo="http://192.168.10.5/images/default_picon.png" tvg-id="1:0:1:1D:0:1:C030D4:0:0:0:" tvg-name="Star Action",Star Action
+#EXTVLCOPT:program=29
+http://192.168.10.5:8001/1:0:1:1D:0:1:C030D4:0:0:0:
+#EXTINF:-1 tvg-chno="28" tvg-logo="http://192.168.10.5/images/default_picon.png" tvg-id="1:0:1:1C:0:1:C030D4:0:0:0:" tvg-name="Star Films",Star Films
+#EXTVLCOPT:program=28
+http://192.168.10.5:8001/1:0:1:1C:0:1:C030D4:0:0:0:
+#EXTINF:-1 tvg-chno="15" tvg-logo="http://192.168.10.5/images/default_picon.png" tvg-id="1:0:1:F:0:1:C030D4:0:0:0:" tvg-name="starzplay",starzplay
+#EXTVLCOPT:program=15
+http://192.168.10.5:8001/1:0:1:F:0:1:C030D4:0:0:0:
+#EXTINF:-1 tvg-chno="44" tvg-logo="http://192.168.10.5/images/default_picon.png" tvg-id="1:0:1:2C:0:2:C00000:0:0:0:" tvg-name="ALRABIAA MOVIES",ALRABIAA MOVIES
+#EXTVLCOPT:program=44
+http://192.168.10.5:8001/1:0:1:2C:0:2:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="45" tvg-logo="http://192.168.10.5/images/default_picon.png" tvg-id="1:0:1:2D:0:2:C00000:0:0:0:" tvg-name="ALRABIAA SERIES",ALRABIAA SERIES
+#EXTVLCOPT:program=45
+http://192.168.10.5:8001/1:0:1:2D:0:2:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="46" tvg-logo="http://192.168.10.5/images/default_picon.png" tvg-id="1:0:1:2E:0:2:C00000:0:0:0:" tvg-name="ONC DRAMA",ONC DRAMA
+#EXTVLCOPT:program=46
+http://192.168.10.5:8001/1:0:1:2E:0:2:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="36" tvg-logo="http://192.168.10.5/images/default_picon.png" tvg-id="1:0:1:24:0:2:C00000:0:0:0:" tvg-name="ONC MOVIE",ONC MOVIE
+#EXTVLCOPT:program=36
+http://192.168.10.5:8001/1:0:1:24:0:2:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="38" tvg-logo="http://192.168.10.5/images/default_picon.png" tvg-id="1:0:1:26:0:2:C00000:0:0:0:" tvg-name="ONC ONE",ONC ONE
+#EXTVLCOPT:program=38
+http://192.168.10.5:8001/1:0:1:26:0:2:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="39" tvg-logo="http://192.168.10.5/images/default_picon.png" tvg-id="1:0:1:27:0:2:C00000:0:0:0:" tvg-name="ONC TURKEY DUBBED",ONC TURKEY DUBBED
+#EXTVLCOPT:program=39
+http://192.168.10.5:8001/1:0:1:27:0:2:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="40" tvg-logo="http://192.168.10.5/images/default_picon.png" tvg-id="1:0:1:28:0:2:C00000:0:0:0:" tvg-name="ONC TURKEY MAX",ONC TURKEY MAX
+#EXTVLCOPT:program=40
+http://192.168.10.5:8001/1:0:1:28:0:2:C00000:0:0:0:
